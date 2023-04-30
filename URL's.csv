@@ -1,0 +1,5 @@
+Tipo,Nombre,URL
+Base de datos,INEGI,https://www.inegi.org.mx/temas/estructura/
+Base de datos,SESNSP,https://www.gob.mx/sesnsp/acciones-y-programas/datos-abiertos-de-incidencia-delictiva
+Relacionado,Github,https://github.com/Beelzabi/crimen_mex/tree/master
+Relacionado,Kaggle,https://www.kaggle.com/datasets/beelzabi/crimen-mx
